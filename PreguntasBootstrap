@@ -1,0 +1,22 @@
+¿Qué es Bootstrap? -> Bootstrap es una biblioteca multiplataforma o conjunto de herramientas de código abierto para diseño de sitios y aplicaciones web
+
+es decir, una serie de librerias donde tenemos varios estilos ya implementados y  simplemente los podemo llamar
+
+¿Para qué sirve? para utilizar patrones de diseño  ya hechos por otras personas.
+
+¿Por qué usar Bootstrap? para ahorrar tiempo en el diseño de la web/interfaz.
+
+Características de Bootstrap
+     - soporte relativamente incompleto para HTML5 y CSS3, pero es compatible con la mayoría de los navegadores web
+      - Desde la versión 2.0 también soporta diseños web adaptables o responsivos "Responsive".
+      -
+
+Ventajas y desventajas de usar Bootstrap
+    - ventajas : te ahoras el tiempo del diseño (css) de la web/interfaz
+    - desventajas: solo usas los diseños implementados en las librerias Bootstrap.
+
+Cómo instalar o implementar Bootstrap en mi proyecto.
+    - apunto desde la cabecera del html a la libreria/biblioteca
+    - me descargo la librería/biblioteca para tenerla en local.
+
+¿Se puede implementar responsive con Bootstrap? Si es así, ¿podrías explicar cómo funciona y poner un ejemplo?
